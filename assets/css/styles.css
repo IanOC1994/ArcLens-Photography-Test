@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/*Header*/
+header {
+    background-color: aquamarine;
+
+}
+
+/* Main Content */
+main {
+    background-color: #ffffff;
+
+}
+
+/* Footer */
+footer {
+    background-color: aquamarine;
+
+}
